@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>CarvedRock_MVC</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\thiag\Source\Repos\tnegherbon\AspNetCore-6-BigPicture\.github\workflows\CarvedRock-MVC.yml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\thiag\Source\Repos\tnegherbon\AspNetCore-6-BigPicture\MVC\CarvedRock-MVC\CarvedRock-MVC\Properties\PublishProfiles\CarvedRock-MVC - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
