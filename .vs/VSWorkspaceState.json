@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MVC",
+    "\\MVC\\CarvedRock-MVC",
+    "\\MVC\\CarvedRock-MVC\\CarvedRock-MVC",
+    "\\MVC\\CarvedRock-MVC\\CarvedRock-MVC\\Controllers"
   ],
-  "SelectedNode": "\\CarvedRock-BlazorWebAssemblyWebApi.sln",
+  "SelectedNode": "\\MVC\\CarvedRock-MVC\\CarvedRock-MVC\\Controllers\\ProductController.cs",
   "PreviewInSolutionExplorer": false
 }
